@@ -35,6 +35,7 @@ public class Encryption
 		}
 		System.out.println("Cipher Text is:"+temp);
 		
+		
 		String tmp="",tmp1="";
 		
 		for(int i=0;i<temp.length();i++)
